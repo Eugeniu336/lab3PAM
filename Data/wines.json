@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Ocone Bozzovich Beneventano Bianco IGT",
+    "type": "Red wine",
+    "country": "France",
+    "photo": "https://www.thedrinksbusiness.com/content/uploads/2023/05/PETIT-CHABLIS-DOMAINE-PASSY-LE-CLOU-2020-640x176.png",
+    "available": true,
+    "price": 23256596,
+    "stock": 123,
+    "criticScore": 94
+  },
+  {
+    "name": "2021 Petit Chablis - Passy Le Clou",
+    "type": "White wine",
+    "country": "France",
+    "photo": "https://www.thedrinksbusiness.com/content/uploads/2023/05/PETIT-CHABLIS-DOMAINE-PASSY-LE-CLOU-2020-640x176.png",
+    "available": true,
+    "price": 23256596,
+    "stock": 123,
+    "criticScore": 94
+  },
+  {
+    "name": "Philippe Fontaine Champagne Brut Rosé",
+    "type": "Sparkling wine",
+    "country": "France",
+    "photo": "https://tmarchettico.com/wp-content/uploads/Bozzovich-Rosso-e1579285248153-325x1024.png",
+    "available": false,
+    "price": 23256596,
+    "stock": 0,
+    "criticScore": 94
+  },
+  {
+    "name": "2021 Cicada’s Song Rosé",
+    "type": "Rose wine",
+    "country": "France",
+    "photo": "https://tmarchettico.com/wp-content/uploads/Bozzovich-Rosso-e1579285248153-325x1024.png",
+    "available": true,
+    "price": 23256596,
+    "stock": 123,
+    "criticScore": 94
+  },
+  {
+    "name": "Château Margaux",
+    "type": "Red wine",
+    "country": "France",
+    "photo": "https://tmarchettico.com/wp-content/uploads/Bozzovich-Rosso-e1579285248153-325x1024.png",
+    "available": true,
+    "price": 3000000,
+    "stock": 50,
+    "criticScore": 98
+  },
+  {
+    "name": "Sassicaia",
+    "type": "Red wine",
+    "country": "Italy",
+    "photo": "https://www.thedrinksbusiness.com/content/uploads/2023/05/PETIT-CHABLIS-DOMAINE-PASSY-LE-CLOU-2020-640x176.png",
+    "available": true,
+    "price": 4500000,
+    "stock": 30,
+    "criticScore": 97
+  },
+  {
+    "name": "Veuve Clicquot Ponsardin",
+    "type": "Sparkling wine",
+    "country": "France",
+    "photo": "https://cdn.shopify.com/s/files/1/0286/0586/files/FullSizeRender_e9f65bc8-d3be-4706-8749-233f06d0072e.heic?v=1697629225",
+    "available": true,
+    "price": 2000000,
+    "stock": 75,
+    "criticScore": 95
+  },
+  {
+    "name": "Dom Pérignon",
+    "type": "Sparkling wine",
+    "country": "France",
+    "photo": "https://freedombev.com/wp-content/uploads/2023/09/champange-distributor-north-carolina.jpg.webp",
+    "available": true,
+    "price": 3500000,
+    "stock": 20,
+    "criticScore": 99
+  },
+  {
+    "name": "Masi Costasera Amarone",
+    "type": "Red wine",
+    "country": "Italy",
+    "photo": "https://cdn.shopify.com/s/files/1/0286/0586/files/FullSizeRender_e9f65bc8-d3be-4706-8749-233f06d0072e.heic?v=1697629225",
+    "available": false,
+    "price": 1500000,
+    "stock": 0,
+    "criticScore": 92
+  },
+  {
+    "name": "Casanova di Neri Tenuta Nuova",
+    "type": "Red wine",
+    "country": "Italy",
+    "photo": "https://freedombev.com/wp-content/uploads/2023/09/champange-distributor-north-carolina.jpg.webp",
+    "available": true,
+    "price": 2500000,
+    "stock": 60,
+    "criticScore": 96
+  }
+]
